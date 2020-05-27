@@ -21,6 +21,7 @@ csvdata[,"date"] <- as.Date(csvdata[,"date"])
 class(csvdata$date)
 ```
 
+
 ## What is mean total number of steps taken per day?
 
 Calculate the Total Steps per day
